@@ -1,0 +1,802 @@
+[
+    {
+        "coordinates": {
+            "latitude": 52.53009, 
+            "longitude": 13.41092
+        }, 
+        "duration": 1.5, 
+        "id": "Platoon Kunsthalle", 
+        "rating": 3.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5301, 
+            "longitude": 13.4007
+        }, 
+        "duration": 1.5, 
+        "id": "hatch Sticker Museum", 
+        "rating": 5.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.528, 
+            "longitude": 13.3985
+        }, 
+        "duration": 1, 
+        "id": "Sphn Galerie am Koppenplatz", 
+        "rating": 5.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5242099, 
+            "longitude": 13.40269
+        }, 
+        "duration": 1.5, 
+        "id": "Gedenkst\u00e4tte Stille Helden", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5242119, 
+            "longitude": 13.4026899
+        }, 
+        "duration": 1.5, 
+        "id": "Freiluftkino Mitte", 
+        "rating": 5.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5272763, 
+            "longitude": 13.3981791
+        }, 
+        "duration": 1, 
+        "id": "Galerie Rossella Junck", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5242099, 
+            "longitude": 13.40269
+        }, 
+        "duration": 1.5, 
+        "id": "Museum Blindenwerkstatt Otto Weidt", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.523937, 
+            "longitude": 13.402526
+        }, 
+        "duration": 1, 
+        "id": "Monsterkabinett", 
+        "rating": 3.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5234, 
+            "longitude": 13.4114
+        }, 
+        "duration": 1.5, 
+        "id": "Reptilienausstellung Welt Der Reptilien", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52698, 
+            "longitude": 13.3972
+        }, 
+        "duration": 1, 
+        "id": "OONA Galerie f\u00fcr Schmuck", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52293, 
+            "longitude": 13.4078
+        }, 
+        "duration": 1.5, 
+        "id": "1. Berliner DDR Motorrad-Museum", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.529, 
+            "longitude": 13.3959
+        }, 
+        "duration": 1.5, 
+        "id": "torstrasse 166", 
+        "rating": 5.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.524774, 
+            "longitude": 13.39899
+        }, 
+        "duration": 1.5, 
+        "id": "Magicum", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5267, 
+            "longitude": 13.3965
+        }, 
+        "duration": 1, 
+        "id": "Galerie Berinson", 
+        "rating": 5.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5221879, 
+            "longitude": 13.4093313
+        }, 
+        "duration": 1.5, 
+        "id": "Zille Museum", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5268299, 
+            "longitude": 13.3952899
+        }, 
+        "duration": 1, 
+        "id": "me Collectors Room", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5267544, 
+            "longitude": 13.3949724
+        }, 
+        "duration": 1, 
+        "id": "KW Institute for Contemporary Art", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5264893, 
+            "longitude": 13.3945599
+        }, 
+        "duration": 1.5, 
+        "id": "The Kennedys", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5333, 
+            "longitude": 13.4203
+        }, 
+        "duration": 1.5, 
+        "id": "Museum Pankow", 
+        "rating": 5.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5208702, 
+            "longitude": 13.4089098
+        }, 
+        "duration": 1.5, 
+        "id": "Menschen Museum", 
+        "rating": 3.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5265, 
+            "longitude": 13.3935
+        }, 
+        "duration": 1, 
+        "id": "Wohnmaschine Galerie Friedrich Loock", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52657, 
+            "longitude": 13.39324
+        }, 
+        "duration": 1, 
+        "id": "Aando Fine Art", 
+        "rating": 3.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52469, 
+            "longitude": 13.39474
+        }, 
+        "duration": 1.5, 
+        "id": "Stiftung Neue Synagoge Berlin - Centrum Judaicum", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52812, 
+            "longitude": 13.39078
+        }, 
+        "duration": 1.5, 
+        "id": "Designpanoptikum", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52073, 
+            "longitude": 13.39845
+        }, 
+        "duration": 1.5, 
+        "id": "Old National Gallery", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.519171, 
+            "longitude": 13.4060912
+        }, 
+        "duration": 1.5, 
+        "id": "Museum f\u00fcr Vor- und Fr\u00fchgeschichte", 
+        "rating": 2.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52073, 
+            "longitude": 13.39845
+        }, 
+        "duration": 1.5, 
+        "id": "Museum Island", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.521183, 
+            "longitude": 13.396902
+        }, 
+        "duration": 1.5, 
+        "id": "Pergamon Museum", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52011154, 
+            "longitude": 13.39948909
+        }, 
+        "duration": 1.5, 
+        "id": "Altes und Neues Museum", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52002, 
+            "longitude": 13.4152
+        }, 
+        "duration": 1.5, 
+        "id": "Loxx am Alex", 
+        "rating": 2.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.520412703434, 
+            "longitude": 13.3979630315196
+        }, 
+        "duration": 1.5, 
+        "id": "New Museum", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.51931, 
+            "longitude": 13.40276
+        }, 
+        "duration": 1.5, 
+        "id": "DDR Museum", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.54039, 
+            "longitude": 13.40575
+        }, 
+        "duration": 1.5, 
+        "id": "VEB Orange", 
+        "rating": 3.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.520187, 
+            "longitude": 13.397646
+        }, 
+        "duration": 1.5, 
+        "id": "\u00c4gyptisches Museum und Papyrussammlung", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5220705731267, 
+            "longitude": 13.3939292189765
+        }, 
+        "duration": 1.5, 
+        "id": "Bode Museum", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5207291, 
+            "longitude": 13.3984499
+        }, 
+        "duration": 1.5, 
+        "id": "Museum f\u00fcr Islamische Kunst", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5265, 
+            "longitude": 13.3892
+        }, 
+        "duration": 1.5, 
+        "id": "ifa-Galerie", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5191116, 
+            "longitude": 13.4003925
+        }, 
+        "duration": 1.5, 
+        "id": "Altes Museum", 
+        "rating": 4.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5404423, 
+            "longitude": 13.4144171
+        }, 
+        "duration": 1.5, 
+        "id": "Ausstellung Alltag in der DDR", 
+        "rating": 4.5, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5206, 
+            "longitude": 13.395
+        }, 
+        "duration": 1.5, 
+        "id": "Zentralarchiv", 
+        "rating": 5.0, 
+        "type": "museum"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52881, 
+            "longitude": 13.40817
+        }, 
+        "duration": 1.5, 
+        "id": "Club Burger", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5275688928154, 
+            "longitude": 13.4082897611297
+        }, 
+        "duration": 1.5, 
+        "id": "Yam Yam", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.53121, 
+            "longitude": 13.4102
+        }, 
+        "duration": 1.5, 
+        "id": "momos", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52687, 
+            "longitude": 13.40773
+        }, 
+        "duration": 1.5, 
+        "id": "Makoto", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5267279378709, 
+            "longitude": 13.4077914974338
+        }, 
+        "duration": 1.5, 
+        "id": "Monsieur Vuong", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52785, 
+            "longitude": 13.40353
+        }, 
+        "duration": 1.5, 
+        "id": "Caf\u00e9 Sisal", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5266571913848, 
+            "longitude": 13.4087044028137
+        }, 
+        "duration": 1.5, 
+        "id": "Qu\u00e0 Ph\u00ea", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.532518679087, 
+            "longitude": 13.406166474047
+        }, 
+        "duration": 1.5, 
+        "id": "Schwarze Pumpe", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52866, 
+            "longitude": 13.40228
+        }, 
+        "duration": 1.5, 
+        "id": "Transit", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.53117, 
+            "longitude": 13.40279
+        }, 
+        "duration": 1.5, 
+        "id": "Yumcha Heroes", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.53131, 
+            "longitude": 13.41269
+        }, 
+        "duration": 1.5, 
+        "id": "Cafe Chagall", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.53074, 
+            "longitude": 13.40147
+        }, 
+        "duration": 1.5, 
+        "id": "Sauerkraut", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5277522833396, 
+            "longitude": 13.4130607292624
+        }, 
+        "duration": 1.5, 
+        "id": "Thai Window Asia", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52551, 
+            "longitude": 13.40816
+        }, 
+        "duration": 1.5, 
+        "id": "Shiori", 
+        "rating": 5.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5300561877761, 
+            "longitude": 13.4007587070716
+        }, 
+        "duration": 1.5, 
+        "id": "Mein Haus am See", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52976, 
+            "longitude": 13.40067
+        }, 
+        "duration": 1.5, 
+        "id": "Fam Dang", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5297406431381, 
+            "longitude": 13.4005957023774
+        }, 
+        "duration": 1.5, 
+        "id": "La Pausa", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5260492478547, 
+            "longitude": 13.4113750767244
+        }, 
+        "duration": 1.5, 
+        "id": "Soy", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5329920129635, 
+            "longitude": 13.411790125904
+        }, 
+        "duration": 1.5, 
+        "id": "Gong Gan", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5278133, 
+            "longitude": 13.4007668
+        }, 
+        "duration": 1.5, 
+        "id": "da Piadina", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52935, 
+            "longitude": 13.40013
+        }, 
+        "duration": 1.5, 
+        "id": "Sucre et Sel", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5294, 
+            "longitude": 13.40015
+        }, 
+        "duration": 1.5, 
+        "id": "Adonis", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5324, 
+            "longitude": 13.40154
+        }, 
+        "duration": 1.5, 
+        "id": "Nolas am Weinberg", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52932, 
+            "longitude": 13.3998899
+        }, 
+        "duration": 1.5, 
+        "id": "Dudu", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52937, 
+            "longitude": 13.39959
+        }, 
+        "duration": 1.5, 
+        "id": "Restaurant Mani", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5340999156243, 
+            "longitude": 13.4043395758967
+        }, 
+        "duration": 1.5, 
+        "id": "Der Hahn ist tot", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52718, 
+            "longitude": 13.39934
+        }, 
+        "duration": 1.5, 
+        "id": "Cocolo Ramen", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5241424, 
+            "longitude": 13.4095303
+        }, 
+        "duration": 1.5, 
+        "id": "Prince", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.527302, 
+            "longitude": 13.398852
+        }, 
+        "duration": 1.5, 
+        "id": "Factory Girl!", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.53317, 
+            "longitude": 13.41494
+        }, 
+        "duration": 1.5, 
+        "id": "Zuhause Delikatessen", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.523781, 
+            "longitude": 13.409277
+        }, 
+        "duration": 1.5, 
+        "id": "Dolores", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.524205127477, 
+            "longitude": 13.41151343227
+        }, 
+        "duration": 1.5, 
+        "id": "Las Olas", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5236430740801, 
+            "longitude": 13.4067711149812
+        }, 
+        "duration": 1.5, 
+        "id": "Atame Tapas Bar", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52723, 
+            "longitude": 13.39883
+        }, 
+        "duration": 1.5, 
+        "id": "Shiso Burger", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.523698, 
+            "longitude": 13.409138
+        }, 
+        "duration": 1.5, 
+        "id": "Bibi Mix", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5240833984191, 
+            "longitude": 13.4029180727794
+        }, 
+        "duration": 1.5, 
+        "id": "All in One", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.53154, 
+            "longitude": 13.41701
+        }, 
+        "duration": 1.5, 
+        "id": "Brauereigastst\u00e4tte Leibhaftig", 
+        "rating": 4.5, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5234297, 
+            "longitude": 13.4089877
+        }, 
+        "duration": 1.5, 
+        "id": "Madami - Mom's vietnamese kitchen", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.5231540344057, 
+            "longitude": 13.4072685465576
+        }, 
+        "duration": 1.5, 
+        "id": "The Pub", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }, 
+    {
+        "coordinates": {
+            "latitude": 52.52667, 
+            "longitude": 13.39679
+        }, 
+        "duration": 1.5, 
+        "id": "Cl\u00e4rchens Ballhaus", 
+        "rating": 4.0, 
+        "type": "restaurant"
+    }
+]
